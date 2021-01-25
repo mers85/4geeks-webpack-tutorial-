@@ -1,0 +1,27 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "description": "During this short tutorial, we will be installing webpack from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alesanchezr/webpack-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alesanchezr/webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/alesanchezr/webpack-tutorial#readme",
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.17.0"
+  }
+}
