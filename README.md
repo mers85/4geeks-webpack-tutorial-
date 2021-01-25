@@ -12,6 +12,8 @@ $ npm -v
 ```
 
 Note: You need at least the 3.5 version of NPM to avoid any performance issues.
+
+
 **Nota: si la version de npm es >= 6 asegurate de usar una versión de node >=10**
 
 2. Create a new npm package
